@@ -3,5 +3,3 @@ matplotlib
 IPython
 datetime
 numpy
-timeit
-json
